@@ -2,7 +2,7 @@
 import requests
 from datetime import datetime
 
-API_KEY = 'fe6ab4450179af5c9c34da5ffd6dacc9'
+API_KEY = ''
 
 
 class WeatherData:
